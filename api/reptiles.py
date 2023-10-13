@@ -13,10 +13,10 @@ def index():
         conservation_state = request_data['conservation_status']
 
         new_reptile = models.Reptile(
-            common_name = request_data['common_name']
-            scientific_name = request_data['scientific_name']
-            native_habitat = request_data['native_habitat']
-            fun_fact = request_data['fun_fact']
+            common_name = request_data['common_name'],
+            scientific_name = request_data['scientific_name'],
+            native_habitat = request_data['native_habitat'],
+            fun_fact = request_data['fun_fact'],
             conservation_status = models.ConservationStatus[conservation_state]
         )
 
@@ -38,3 +38,11 @@ def index():
     ]
 
     return jsonify(reptiles_list), 200
+
+@bp.route('/<reptile_id>')
+def get_reptile(reptile_id):
+    reptile = models.Reptile.query.filter_by(id=reptile_id).first()
+    
+    print(reptile)
+
+    return jsonify({ 'reptile_id': reptile_id}), 200
