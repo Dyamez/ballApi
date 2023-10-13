@@ -11,4 +11,7 @@ def create_app():
     models.db.init_app(app)
     migrate = Migrate(app, models.db)
 
+    from . import reptiles
+    app.register_blueprint(reptiles.bp)
+
     return app
