@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "name": "Moo-moo Cow",
+    "category": "livestock",
+    "image": "",
+    "new_price": 5000.0,
+    "old_price": 8000.0
+  },
+  {
+    "id": 2,
+    "name": "Plump Pig",
+    "category": "livestock",
+    "image": "",
+    "new_price": 8500.0,
+    "old_price": 9200.0
+  },
+  {
+    "id": 3,
+    "name": "Loud Goat",
+    "category": "livestock",
+    "image": "",
+    "new_price": 600.0,
+    "old_price": 1000.0
+  },
+  {
+    "id": 4,
+    "name": "Large Bison",
+    "category": "livestock",
+    "image": "",
+    "new_price": 50000.0,
+    "old_price": 75000.0
+  },
+  {
+    "id": 5,
+    "name": "Squash",
+    "category": "produce",
+    "image": "",
+    "new_price": 10.0,
+    "old_price": 15.5
+  },
+  {
+    "id": 6,
+    "name": "Bitter Melon",
+    "category": "produce",
+    "image": "",
+    "new_price": 5.0,
+    "old_price": 9.5
+  },
+  {
+    "id": 7,
+    "name": "Tomato",
+    "category": "produce",
+    "image": "",
+    "new_price": 1.5,
+    "old_price": 3.5
+  },
+  {
+    "id": 8,
+    "name": "Ostrich",
+    "category": "livestock",
+    "image": "",
+    "new_price": 1000.0,
+    "old_price": 1500.0
+  },
+  {
+    "id": 9,
+    "name": "Garlic",
+    "category": "produce",
+    "image": "",
+    "new_price": 2.0,
+    "old_price": 4.5
+  },
+  {
+    "id": 10,
+    "name": "Habanero",
+    "category": "produce",
+    "image": "",
+    "new_price": 3.0,
+    "old_price": 4.5
+  },
+  {
+    "id": 11,
+    "name": "Corn",
+    "category": "produce",
+    "image": "",
+    "new_price": 5.0,
+    "old_price": 8.5
+  },
+  {
+    "id": 12,
+    "name": "Brown Chicken",
+    "category": "livestock",
+    "image": "",
+    "new_price": 9.0,
+    "old_price": 20.0
+  },
+  {
+    "id": 13,
+    "name": "Avocado",
+    "category": "produce",
+    "image": "",
+    "new_price": 14.0,
+    "old_price": 16.5
+  },
+  {
+    "id": 14,
+    "name": "Carabao",
+    "category": "livestock",
+    "image": "",
+    "new_price": 600.0,
+    "old_price": 9000.0
+  },
+  {
+    "id": 15,
+    "name": "Quail",
+    "category": "livestock",
+    "image": "",
+    "new_price": 50.0,
+    "old_price": 80.0
+  },
+  {
+    "id": 16,
+    "name": "Banana",
+    "category": "produce",
+    "image": "",
+    "new_price": 12.0,
+    "old_price": 13.5
+  },
+  {
+    "id": 17,
+    "name": "Horse",
+    "category": "livestock",
+    "image": "",
+    "new_price": 20000.0,
+    "old_price": 30000.0
+  },
+  {
+    "id": 18,
+    "name": "Blueberry",
+    "category": "produce",
+    "image": "",
+    "new_price": 6.0,
+    "old_price": 6.5
+  },
+  {
+    "id": 19,
+    "name": "Cranberry",
+    "category": "produce",
+    "image": "",
+    "new_price": 10.0,
+    "old_price": 12.5
+  },
+  {
+    "id": 20,
+    "name": "Lettuce",
+    "category": "produce",
+    "image": "",
+    "new_price": 6.0,
+    "old_price": 6.5
+  },
+  {
+    "id": 21,
+    "name": "Melon",
+    "category": "produce",
+    "image": "",
+    "new_price": 7.0,
+    "old_price": 10.5
+  },
+  {
+    "id": 22,
+    "name": "Pumpkin",
+    "category": "produce",
+    "image": "",
+    "new_price": 15.0,
+    "old_price": 16.5
+  },
+  {
+    "id": 23,
+    "name": "Cacao",
+    "category": "produce",
+    "image": "",
+    "new_price": 19.0,
+    "old_price": 20.5
+  },
+  {
+    "id": 24,
+    "name": "Grains",
+    "category": "produce",
+    "image": "",
+    "new_price": 25.0,
+    "old_price": 30.5
+  },
+  {
+    "id": 25,
+    "name": "Coconut",
+    "category": "produce",
+    "image": "",
+    "new_price": 13.0,
+    "old_price": 13.5
+  },
+  {
+    "id": 26,
+    "name": "Rosemary",
+    "category": "produce",
+    "image": "",
+    "new_price": 2.0,
+    "old_price": 4.5
+  },
+  {
+    "id": 27,
+    "name": "Pepper",
+    "category": "produce",
+    "image": "",
+    "new_price": 13.5,
+    "old_price": 15.5
+  },
+  {
+    "id": 28,
+    "name": "Camel",
+    "category": "livestock",
+    "image": "",
+    "new_price": 45000.0,
+    "old_price": 65000.0
+  },
+  {
+    "id": 29,
+    "name": "Weed Wacker",
+    "category": "supplies",
+    "image": "",
+    "new_price": 230.0,
+    "old_price": 275.5
+  },
+  {
+    "id": 30,
+    "name": "Hoe",
+    "category": "supplies",
+    "image": "",
+    "new_price": 55.0,
+    "old_price": 60.5
+  },
+  {
+    "id": 31,
+    "name": "Wood Scissors",
+    "category": "supplies",
+    "image": "",
+    "new_price": 45.0,
+    "old_price": 76.5
+  },
+  {
+    "id": 32,
+    "name": "Knives",
+    "category": "supplies",
+    "image": "",
+    "new_price": 35.0,
+    "old_price": 39.9
+  },
+  {
+    "id": 33,
+    "name": "Barrels",
+    "category": "supplies",
+    "image": "",
+    "new_price": 200.0,
+    "old_price": 210.0
+  },
+  {
+    "id": 34,
+    "name": "Water Hose",
+    "category": "supplies",
+    "image": "",
+    "new_price": 40.0,
+    "old_price": 56.2
+  },
+  {
+    "id": 35,
+    "name": "Duck",
+    "category": "livestock",
+    "image": "",
+    "new_price": 12.0,
+    "old_price": 24.0
+  },
+  {
+    "id": 36,
+    "name": "Rope",
+    "category": "supplies",
+    "image": "",
+    "new_price": 39.9,
+    "old_price": 45.4
+  }
+]
